@@ -29,3 +29,4 @@ INSERT INTO authors (id, name) VALUES (1, "name")
 INSERT INTO authors (id, name) VALUES (1, "name")
 
 INSERT INTO subgenres (id, name) VALUES (1, "subgenre")
+INSERT INTO subgenres (id, name) VALUES (1, "subgenre")
